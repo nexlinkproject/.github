@@ -1,4 +1,4 @@
-<h1 align="center">ENTS-H107 | Nexlink Bangkit Academy Entrepreneur Capstone Team</h1>
+<h1 align="center">ENTS-H107 | Nexlink Bangkit Academy 2024 Batch 1 Entrepreneur Capstone Team</h1>
 <h3 align="center">Rapid Project Planning with AI-Powered Project Planner</h3>
 
 <p align="center">
